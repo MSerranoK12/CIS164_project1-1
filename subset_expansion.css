@@ -16,7 +16,11 @@ h2 {
 	font-size: 120%;
 	padding: .25em 0 .25em 25px;
 }
-
+{
+h6{
+	font-size: 120%;
+	padding: .25em 0 .25em 25px;
+}
 ul {
 	padding-left: 15px;
 }
